@@ -1,4 +1,4 @@
-# FleaMarket
+# FleaMarket (still under development)
 This is a small second-hand product trading website, developed based on Django.
 
 ## How to run
@@ -11,6 +11,7 @@ click this address to access my website [Flea Market](http://makiato1999.pythona
     Account: casual_user 
     Password: test_uofm_22
     ```
+    
 ## Commands to update models/database
 ```
 workon django3
@@ -19,6 +20,7 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py check
 ```
+
 ## Database
 using MySQL services provided by pythonanywhere.com
 ```
