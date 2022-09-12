@@ -11,7 +11,7 @@ click this address to access my website [Flea Market](http://makiato1999.pythona
     Account: casual_user 
     Password: test_uofm_22
     ```
-## Commands on console to update models/database
+## Commands to update models/database
 ```
 workon django3
 python manage.py check
