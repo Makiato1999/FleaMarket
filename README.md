@@ -1,5 +1,5 @@
-# FleaMarket (still under development)
-This is a small second-hand product trading website, developed based on Django.
+# FleaMarket
+This is a small second-hand product trading website, developed based on Django, still under development.
 
 ## How to run
 using server provided by pythonanywhere.com
