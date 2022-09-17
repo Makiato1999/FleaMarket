@@ -4,7 +4,7 @@ This is a small second-hand product trading website, developed based on Django, 
 ## How to run
 using server provided by pythonanywhere.com
 <br>
-click this address to access my website [Flea Market](http://makiato1999.pythonanywhere.com/)
+You can access the website by using this link: [Flea Market](http://makiato1999.pythonanywhere.com/).
 <br>
 <b>attention:</b>
   - I haven't finished the register feature, but you can login by using GitHub account or a visitor account(below).
